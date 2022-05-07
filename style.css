@@ -4,3 +4,6 @@
     background: lightgray;
     font-size: 50px;
 }
+.inline .item {
+    display:inline;
+}
