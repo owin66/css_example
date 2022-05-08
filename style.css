@@ -15,3 +15,6 @@
 .inline-block .item {
     display: inline-block;
 }
+.flex {
+    display: flex;
+}
